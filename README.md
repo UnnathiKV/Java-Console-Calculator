@@ -11,7 +11,7 @@ A simple Java console-based calculator that performs basic arithmetic operations
 ---
 
 ## To Run the code
- **Compile the code:**https://github.com/UnnathiKV/Java-Console-Calculator/blob/main/SimpleCalculator.java
+ **Compile the code:https://github.com/UnnathiKV/Java-Console-Calculator/blob/main/SimpleCalculator.java**
 
 ---
 
@@ -26,5 +26,5 @@ A simple Java console-based calculator that performs basic arithmetic operations
 ---
 
 ## Output Screenshot
-**Sample Output:**
+**Sample Output:https://github.com/UnnathiKV/Java-Console-Calculator/blob/main/task1.png**
 
